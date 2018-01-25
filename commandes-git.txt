@@ -1,0 +1,3 @@
+git remote add origin https://github.com/eddypmartin/wp-theme.git
+git push -u origin master
+
